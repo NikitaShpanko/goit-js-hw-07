@@ -7,9 +7,9 @@ section:not(:last-child) {
   margin-right: 50px;
 }
 
-#task2 {
+/* #task2 {
   margin-top: 100px;
-}
+} */
 
 #gallery {
   padding: 0;
