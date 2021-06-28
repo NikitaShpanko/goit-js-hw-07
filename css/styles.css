@@ -33,3 +33,10 @@ section:not(:last-child) {
 #validation-input.invalid {
   border-color: #f44336;
 }
+
+#boxes {
+  margin-top: 10px;
+  display: flex;
+  /* align-items: center; */
+  /* flex-wrap: wrap; */
+}
