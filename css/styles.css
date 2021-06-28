@@ -1,6 +1,5 @@
 body {
   display: flex;
-  flex-wrap: wrap;
 }
 
 section:not(:last-child) {
